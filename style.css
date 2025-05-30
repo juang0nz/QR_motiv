@@ -10,10 +10,10 @@ body {
   color: #f3f3f3;
   display: flex;
   justify-content: center;
-  align-items: center;
-  padding: 20px;
-  min-height: 100vh;
+  padding: 20px 20px 40px 20px;
+  min-height: 10vh;
 }
+
 
 .card {
   background-color: #111;
@@ -23,7 +23,9 @@ body {
   max-width: 400px;
   width: 100%;
   text-align: center;
+  margin-top: 10px; /* opcional para separarla un poco del borde superior */
 }
+
 
 .logo {
   width: 150px; /* antes: 120px */
@@ -38,7 +40,7 @@ body {
 }
 
 .content {
-  padding: 24px;
+  padding: 32px;
 }
 
 h1 {
