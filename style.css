@@ -26,8 +26,8 @@ body {
 }
 
 .logo {
-  width: 200px; /* antes: 120px */
-  margin: 30px auto 20px;
+  width: 300px; /* antes: 120px */
+  margin: 5px auto 0px;
   display: block;
 }
 
